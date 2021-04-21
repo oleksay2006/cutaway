@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: lightgray;
+	padding: 30px;
+}
+.card {
+	border-radius: 10px;
+	background-color: white;
+	width: 700px;
+	height: 350px;
+	font-family: Montserrat;
+	display: flex;
+	align-content: center;
+	margin: 0 auto;
+	box-shadow: 0 0 15px grey;
+
+}
+.text {
+	margin-left: 30px;
+	margin-top: 50px;
+}
+h1 {
+	font-weight: 700;
+}
+p {
+	margin-top: 20px;
+	width: 400px;
+	
+}
+.me {
+	margin-left: 50px;
+	margin-top: 20px;
+	height: 310px;
+	border-radius: 5px;
+	box-shadow: 0 0 15px lightgrey;
+}
+.mail {
+	margin-top: 50px;
+	width: 200px;
+}
+.link {
+	text-decoration: none;
+	color: gray;
+}
+.footer {
+	display: flex;
+}
+.instagram {
+	width: 30px;
+	height: 30px;
+	margin-top: 45px;
+	margin-left: 20px;
+}
